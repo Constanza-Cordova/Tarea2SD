@@ -35,3 +35,5 @@ Eso es todo, happy coding. ✨
 
 ### Diagramas de flujo relevantes
 <img src='/docs/images/indexation-fd.png' height='450'/>
+
+Para poder gestionar las dependencias de Node.js, se debe utilizar el comando npm install y para verificar la instalación se debe usar ls node_modules 
